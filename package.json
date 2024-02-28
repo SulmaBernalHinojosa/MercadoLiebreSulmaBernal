@@ -2,10 +2,10 @@
   "name": "mercado-liebre",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "nodemon app.js",
-    "start": "node app.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
